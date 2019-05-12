@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: beer.cost.function.app
+---
+testFramework: junit
+sourceLanguage: java
